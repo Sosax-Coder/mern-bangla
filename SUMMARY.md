@@ -1,6 +1,7 @@
 # Table of contents
 
-* [HTML](README.md)
+* [Index](README.md)
+* [HTML](<README (1).md>)
   * [Heading](html/heading/README.md)
     * [Bold](html/heading/bold.md)
 * [CSS](css.md)
